@@ -7,7 +7,7 @@ name = "childes_processor"
 authors = [
   { name="Zebulon Goriely", email="zebulon.goriely@cl.cam.ac.uk" },
 ]
-description = "Library for downloading CHILDES, preprocessing it, and extracting phonetic transcriptions"
+description = "Library for downloading CHILDES, preprocessing it, and creating phonemic transcriptions in IPA."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -24,8 +24,8 @@ dependencies = [
 ]
 dynamic = ["version"]
 [project.urls]
-Homepage = "https://github.com/codebyzeb/ipa-childes"
-Issues = "https://github.com/codebyzeb/ipa-childes/issues"
+Homepage = "https://github.com/codebyzeb/childes-processor"
+Issues = "https://github.com/codebyzeb/childes-processor/issues"
 
 [project.scripts]
 childes_processor = "childes_processor.main:main"
