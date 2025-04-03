@@ -114,3 +114,10 @@ processor.print_statistics()
 processor.save_df(PROCESSED_PATH / 'Eng-NA')
 
 ```
+
+## Attribution
+
+This project incorporates content from the following sources:
+
+ - **Phoible** by **Moran, Steven & McCloy, Daniel**, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
+  Original work: [https://phoible.org/](https://phoible.org/)
