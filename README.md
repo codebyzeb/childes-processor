@@ -121,3 +121,17 @@ This project incorporates content from the following sources:
 
  - **Phoible** by **Moran, Steven & McCloy, Daniel**, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
   Original work: [https://phoible.org/](https://phoible.org/)
+
+## Citation
+
+```
+@misc{goriely2025ipachildesg2pfeaturerich,
+      title={IPA-CHILDES & G2P+: Feature-Rich Resources for Cross-Lingual Phonology and Phonemic Language Modeling}, 
+      author={Zébulon Goriely and Paula Buttery},
+      year={2025},
+      eprint={2504.03036},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.03036}, 
+}
+```
